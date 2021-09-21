@@ -21,3 +21,5 @@ Not tested:
 Not working:
 - dGPU
 - Maybe other things?
+
+note that the EFI folder is sourced using multiple repos and EFI founds on forums and thus it contains other people work, but at this time i can't recall everything i used, if you recognize some of your work you can contact me and i can add credits.
